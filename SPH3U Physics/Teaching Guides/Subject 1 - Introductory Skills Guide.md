@@ -53,10 +53,10 @@ Physics calculations frequently combine experimental quantities using arithmetic
 >
 > When you **multiply** $4.8\text{ m} \times 6.2\text{ m}$, you're computing an area. Each measurement has a relative uncertainty — $4.8$ has roughly 1-in-48 imprecision (~2%), and $6.2$ has roughly 1-in-62 imprecision (~2%). These *relative* uncertainties compound on multiplication. The result can only be as *relatively* precise as the less precise input — this is why **significant digits (relative precision)** govern multiplication.
 
-| Operation | Rule | Key Idea |
-| :--- | :--- | :--- |
-| Addition & Subtraction | Fewest **decimal places** in the inputs | Absolute precision — it's about position |
-| Multiplication & Division | Fewest **total SD** in the inputs | Relative precision — it's about ratio |
+| Operation                 | Rule                                    | Key Idea                                 |
+| :------------------------ | :-------------------------------------- | :--------------------------------------- |
+| Addition & Subtraction    | Fewest **decimal places** in the inputs | Absolute precision — it's about position |
+| Multiplication & Division | Fewest **total SD** in the inputs       | Relative precision — it's about ratio    |
 
 1. **Addition & Subtraction Rule (Decimal Place Limit):**
    The final result cannot be more precise than the least precise measurement. Round the sum or difference to match the operand with the fewest decimal places.
