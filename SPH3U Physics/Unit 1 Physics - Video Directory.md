@@ -12,7 +12,7 @@ tags:
 > **Related Notes:**
 > - Master Study Roadmap: [[Unit 1 Kinematics - Master Study Roadmap]]
 > - Teaching Guides: [[Subject 1 - Introductory Skills Guide|Subject 1 Guide]] | [[Subject 2 - Vector Motion Foundations Guide|Subject 2 Guide]] | [[Subject 3 - Graphical Analysis Guide|Subject 3 Guide]] | [[Subject 4 - Advanced Kinematics Guide|Subject 4 Guide]]
-> - Summary Notes: [[Subject 1 - Intro Skills Summary]] | [[Subject 2 - Vector Motion Summary]] | [[Subject 3 - Motion Graphs Summary]] | [[Subject 4 - Advanced Kinematics Summary]]
+> - Summary Notes: [[Resources/Subject 1 - Intro Skills Summary]] | [[Subject 2 - Vector Motion Summary]] | [[Subject 3 - Motion Graphs Summary]] | [[Subject 4 - Advanced Kinematics Summary]]
 
 ---
 

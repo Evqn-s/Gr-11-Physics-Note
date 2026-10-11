@@ -12,7 +12,7 @@ tags:
 > **Quick Links:**
 > - Master Video Hub: [[Unit 1 Physics - Video Directory]]
 > - Deep-Dive Teaching Guides: [[Subject 1 - Introductory Skills Guide|Subject 1 Guide]] | [[Subject 2 - Vector Motion Foundations Guide|Subject 2 Guide]] | [[Subject 3 - Graphical Analysis Guide|Subject 3 Guide]] | [[Subject 4 - Advanced Kinematics Guide|Subject 4 Guide]]
-> - 1-Page Summary Sheets: [[Subject 1 - Intro Skills Summary|Subject 1 Summary]] | [[Subject 2 - Vector Motion Summary|Subject 2 Summary]] | [[Subject 3 - Motion Graphs Summary|Subject 3 Summary]] | [[Subject 4 - Advanced Kinematics Summary|Subject 4 Summary]]
+> - 1-Page Summary Sheets: [[Resources/Subject 1 - Intro Skills Summary|Subject 1 Summary]] | [[Subject 2 - Vector Motion Summary|Subject 2 Summary]] | [[Subject 3 - Motion Graphs Summary|Subject 3 Summary]] | [[Subject 4 - Advanced Kinematics Summary|Subject 4 Summary]]
 
 ---
 
@@ -51,7 +51,7 @@ The course lessons up to the Unit 1 Test are grouped into four integrated subjec
 
 ### Subject 1: Unit 0 Introductory Mathematical Skills & Measurement Analysis
 * **Deep-Dive Guide:** [[Subject 1 - Introductory Skills Guide|Subject 1: Unit 0 Introductory Mathematical Skills & Measurement Analysis]]
-* **Quick Summary Sheet:** [[Subject 1 - Intro Skills Summary]]
+* **Quick Summary Sheet:** [[Resources/Subject 1 - Intro Skills Summary]]
 * **Core Topics Covered:**
   - Measurement taking, instruments, and precision limits
   - Significant Digits (SD) counting rules and rounding standards

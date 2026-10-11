@@ -8,7 +8,7 @@ tags:
 # Subject 1: Unit 0 Introductory Mathematical Skills & Measurement Analysis
 
 > [!info] Quick Navigation
-> - **Summary Sheet:** [[Subject 1 - Intro Skills Summary]]
+> - **Summary Sheet:** [[Resources/Subject 1 - Intro Skills Summary]]
 > - **Master Roadmap:** [[Unit 1 Kinematics - Master Study Roadmap]]
 
 ---
