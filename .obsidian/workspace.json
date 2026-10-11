@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d67c8abae44319a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPH3U Physics/Teaching Guides/Subject 1 - Introductory Skills Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Subject 1 - Introductory Skills Guide"
-            }
-          },
-          {
             "id": "b0380e850c0e911f",
             "type": "leaf",
             "state": {
@@ -35,8 +21,23 @@
               "title": "Subject 1 - Introductory Skills Guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "89ae01a34d231a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e51428dc6b48c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +203,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -226,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0380e850c0e911f",
+  "active": "33e51428dc6b48c8",
   "lastOpenFiles": [
-    "SPH3U Physics/Teaching Guides/Subject 2 - Vector Motion Foundations Guide.md",
     "SPH3U Physics/Teaching Guides/Subject 1 - Introductory Skills Guide.md",
+    "SPH3U Physics/Teaching Guides/Subject 2 - Vector Motion Foundations Guide.md",
     "SPH3U Physics/Unit 1 Physics - Video Directory.md",
     "SPH3U Physics/Unit 1 Kinematics - Master Study Roadmap.md",
     "README.md",
