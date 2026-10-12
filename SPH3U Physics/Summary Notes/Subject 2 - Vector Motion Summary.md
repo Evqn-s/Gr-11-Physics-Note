@@ -30,11 +30,14 @@ Scalars are values that only have magnitude (amount and unit), while vectors hav
   - *Deeper guide:* See [[Subject 2 - Vector Motion Foundations Guide#Position, Distance, and Displacement|Position, Distance, and Displacement]].
 * **Displacement ($\Delta\vec{d}$):** Straight-line change in position from start to finish. Independent of path taken:
   $$\Delta\vec{d} = \vec{d}_f - \vec{d}_i$$
+  * **Why it works:** Position is a vector from origin. Subtracting initial from final gives the net change vector (tip-to-tail difference), so only start/end matter.
 * **Distance ($d$):** Total length of the actual path traveled. Always positive ($d \ge 0$).
 * **Average Speed ($v_{\text{avg}}$):** Total path distance divided by elapsed time (scalar):
   $$v_{\text{avg}} = \frac{d_{\text{total}}}{\Delta t}$$
+  * **Why it works:** Speed measures how fast ground is covered along the actual route. Summing path length gives total travel; dividing by time gives rate of coverage.
 * **Average Velocity ($\vec{v}_{\text{avg}}$):** Net displacement divided by elapsed time (vector):
   $$\vec{v}_{\text{avg}} = \frac{\Delta\vec{d}}{\Delta t} = \frac{\vec{d}_f - \vec{d}_i}{\Delta t}$$
+  * **Why it works:** Velocity is the *rate of change* of position. $Δ\vec{d}$ is the total change in position (net effect), divided by $Δ t$ gives how much position changes per unit time. Displacement ignores path, so velocity reflects net motion, not detours.
 * **Constant vs. Instantaneous:** Instantaneous speed is the speedometer reading at a single moment. Constant velocity means speed and direction never change, so $\vec{v}_{\text{inst}} = \vec{v}_{\text{avg}}$.
 
 ---
