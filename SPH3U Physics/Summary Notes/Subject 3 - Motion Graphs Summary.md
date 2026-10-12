@@ -18,16 +18,21 @@ tags:
 
 #### 1. Position-Time ($d-t$) Graphs
 * **Slope = Velocity ($\vec{v} = \frac{\Delta \vec{d}}{\Delta t}$)**
+  * **Why it works:** Slope is rise/run = change in position over change in time, which is exactly the definition of velocity (rate of change of position).
   - Horizontal line $\implies$ Object at rest ($\vec{v} = 0$).
   - Straight line $\implies$ Constant velocity (uniform motion).
   - Curved line $\implies$ Changing velocity (object accelerating).
 * **Secant Slope:** Connects two points $(t_1, d_1)$ and $(t_2, d_2) \implies$ **Average Velocity ($\vec{v}_{\text{avg}}$)**.
+  * **Why:** Averaged over a finite interval $Δ t$.
 * **Tangent Slope:** Line touching curve at single point $\implies$ **Instantaneous Velocity ($\vec{v}_{\text{inst}}$)**.
+  * **Why:** As the interval shrinks to zero, $rac{Δ d}{Δ t}$ approaches the velocity at that instant.
 - *Deeper guide:* See [[Subject 3 - Graphical Analysis Guide#Position-Time (d-t) Graphs|Position-Time Graphs Theory]].
 
 #### 2. Velocity-Time ($v-t$) Graphs
 * **Slope = Acceleration ($\vec{a} = \frac{\Delta \vec{v}}{\Delta t}$)**
+  * **Why it works:** Rate of change of velocity is acceleration (rise/run = $Δ v/Δ t$).
 * **Area Under Curve = Displacement ($\Delta\vec{d}$)**
+  * **Why it works:** Displacement for a small interval is $v × Δ t$ (area of a thin strip). Summing all strips gives total accumulated displacement (geometric area = integral of velocity over time).
   - Area above time axis ($v > 0$) $\implies$ Positive displacement ($[+]$, forward).
   - Area below time axis ($v < 0$) $\implies$ Negative displacement ($[-]$, backward).
 * **Motion States:**

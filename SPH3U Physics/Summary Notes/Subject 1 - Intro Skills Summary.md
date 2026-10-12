@@ -20,8 +20,10 @@ tags:
 * **Scientific Notation:** $N \times 10^n$ where $1 \le |N| < 10$. Standardizes measurements and makes significant trailing zeros completely unambiguous (e.g., $4.50 \times 10^3\text{ m}$ has $3$ SD).
 * **Percent Error (Accuracy):** Measures closeness of an experimental value to accepted truth:
   $$\% \text{Error} = \left\vert \frac{\text{Exp} - \text{Acc}}{\text{Acc}} \right\vert \times 100\%$$
+  * **Why it works:** The numerator is the absolute deviation from the accepted (true) value; dividing by the accepted value gives relative error, scaled to percent.
 * **Percent Difference (Precision):** Measures repeatability between two experimental trials:
   $$\% \text{Diff} = \frac{\vert \text{Meas}_1 - \text{Meas}_2 \vert}{\text{Average}} \times 100\% = \frac{\vert \text{Meas}_1 - \text{Meas}_2 \vert}{\frac{\text{Meas}_1 + \text{Meas}_2}{2}} \times 100\%$$
+  * **Why it works:** Difference between trials divided by their average gives a relative measure of spread/consistency (unitless comparison).
 
 ---
 
@@ -37,6 +39,7 @@ tags:
 ### Formula Reference Block
 * Average Speed:
   $$v_{\text{avg}} = \frac{\Delta d}{\Delta t}$$
+  * **Why it works:** Speed is distance covered per unit time — total distance divided by total time gives the overall rate.
 * Accuracy:
   $$\% \text{Error} = \left\vert \frac{\text{Exp} - \text{Acc}}{\text{Acc}} \right\vert \times 100\%$$
 * Precision:
