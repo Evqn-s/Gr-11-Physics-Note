@@ -18,6 +18,7 @@ tags:
 
 * **Acceleration Definition:**
   $$\vec{a} = \frac{\Delta \vec{v}}{\Delta t} = \frac{\vec{v}_f - \vec{v}_i}{\Delta t}$$
+  * **Why it works:** Acceleration is the rate at which velocity changes. $Δ\vec{v}$ over $Δ t$ gives how much velocity changes per second.
 * **Acceleration Due to Gravity (Earth):**
   $$\vec{g} = 9.81\text{ m/s}^2\text{ [down]} \implies a = -9.81\text{ m/s}^2 \quad (\text{with } [\text{Up}] = +)$$
 
@@ -25,10 +26,15 @@ tags:
 *See complete geometric derivations in [[Subject 4 - Advanced Kinematics Guide#Derivation of the "Big 5" Kinematic Equations|Big 5 Derivations]].*
 
 1. $\vec{v}_f = \vec{v}_i + \vec{a}\Delta t$ *(omits $\Delta\vec{d}$)*
+   * **Why:** Rearranged from $\vec{a} = \frac{\vec{v}_f - \vec{v}_i}{\Delta t}$ (definition of constant/average acceleration).
 2. $\Delta\vec{d} = \left(\frac{\vec{v}_i + \vec{v}_f}{2}\right)\Delta t$ *(omits $\vec{a}$)*
+   * **Why:** With constant acceleration, velocity increases linearly. Average velocity is the arithmetic mean $(v_i+v_f)/2$, and displacement = average velocity × time.
 3. $\Delta\vec{d} = \vec{v}_i\Delta t + \frac{1}{2}\vec{a}\Delta t^2$ *(omits $\vec{v}_f$)*
+   * **Why:** Total displacement is initial velocity part ($v_iΔ t$) plus extra displacement from acceleration. The $rac{1}{2}a(Δ t)^2$ comes from the triangle area under a linear $v$–$t$ curve.
 4. $\Delta\vec{d} = \vec{v}_f\Delta t - \frac{1}{2}\vec{a}\Delta t^2$ *(omits $\vec{v}_i$)*
+   * **Why:** Symmetric to (3): think in terms of final velocity minus the acceleration-over-time term (area subtracted when starting slower).
 5. $v_f^2 = v_i^2 + 2a\Delta d$ *(omits $\Delta t$)*
+   * **Why:** Algebraic combination of (1) and (2) — eliminate $Δ t$ to relate $v^2$, $a$, and displacement directly.
 
 ---
 
