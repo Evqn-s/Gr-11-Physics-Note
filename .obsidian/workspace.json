@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPH3U Physics/Teaching Guides/Subject 3 - Graphical Analysis Guide.md",
+                "file": "SPH3U Physics/Teaching Guides/Subject 4 - Advanced Kinematics Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subject 3 - Graphical Analysis Guide"
+              "title": "Subject 4 - Advanced Kinematics Guide"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "b0380e850c0e911f",
   "lastOpenFiles": [
+    "SPH3U Physics/Teaching Guides/Subject 3 - Graphical Analysis Guide.md",
     "SPH3U Physics/Teaching Guides/Subject 2 - Vector Motion Foundations Guide.md",
     "SPH3U Physics/Teaching Guides/Subject 1 - Introductory Skills Guide.md",
     "SPH3U Physics/Unit 1 Physics - Video Directory.md",
@@ -244,7 +245,6 @@
     "fetch_online_images.py",
     "text_diagrams_list.txt",
     "scan_diagrams.py",
-    "SPH3U Physics/Teaching Guides/Subject 3 - Graphical Analysis Guide.md",
     "audit_links.py",
     "SPH3U Physics/Summary Notes/Subject 4 - Advanced Kinematics Summary.md",
     "Resources/Example Notes.md",
