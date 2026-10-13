@@ -11,14 +11,28 @@
             "id": "b0380e850c0e911f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SPH3U Physics/Teaching Guides/Subject 4 - Advanced Kinematics Guide.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Intro to Vector Motion WB blank.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Subject 4 - Advanced Kinematics Guide"
+              "icon": "lucide-file-text",
+              "title": "Intro to Vector Motion WB blank"
+            }
+          }
+        ]
+      },
+      {
+        "id": "89ae01a34d231a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e51428dc6b48c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
