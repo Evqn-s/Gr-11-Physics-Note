@@ -11,14 +11,12 @@
             "id": "b0380e850c0e911f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SPH3U Physics/Teaching Guides/Subject 4 - Advanced Kinematics Guide.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/2026kinwb#3curvedDTto Transitions.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Subject 4 - Advanced Kinematics Guide"
+              "icon": "lucide-file-text",
+              "title": "2026kinwb#3curvedDTto Transitions"
             }
           }
         ]
@@ -229,6 +227,7 @@
   },
   "active": "b0380e850c0e911f",
   "lastOpenFiles": [
+    "SPH3U Physics/Teaching Guides/Subject 4 - Advanced Kinematics Guide.md",
     "SPH3U Physics/Teaching Guides/Subject 1 - Introductory Skills Guide.md",
     "Resources/Intro to Vector Motion WB blank.pdf",
     "SPH3U Physics/Teaching Guides/Subject 3 - Graphical Analysis Guide.md",
@@ -242,7 +241,6 @@
     "Resources/Calendar.md",
     "Resources/Subject 1 - Intro Skills Summary.md",
     "Resources",
-    "SPH3U Physics/Teaching Guides/Subject 4 - Advanced Kinematics Guide.md",
     "SPH3U Physics/Summary Notes/Subject 1 - Intro Skills Summary.md",
     "SPH3U Physics/attachments/accuracy_and_precision.svg",
     "SPH3U Physics/Summary Notes/Subject 3 - Motion Graphs Summary.md",
