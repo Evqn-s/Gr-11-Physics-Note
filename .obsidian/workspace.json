@@ -11,12 +11,14 @@
             "id": "b0380e850c0e911f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Intro to Vector Motion WB blank.pdf"
+                "file": "SPH3U Physics/Teaching Guides/Subject 4 - Advanced Kinematics Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Intro to Vector Motion WB blank"
+              "icon": "lucide-file",
+              "title": "Subject 4 - Advanced Kinematics Guide"
             }
           }
         ]
@@ -227,9 +229,10 @@
   },
   "active": "b0380e850c0e911f",
   "lastOpenFiles": [
+    "SPH3U Physics/Teaching Guides/Subject 1 - Introductory Skills Guide.md",
+    "Resources/Intro to Vector Motion WB blank.pdf",
     "SPH3U Physics/Teaching Guides/Subject 3 - Graphical Analysis Guide.md",
     "SPH3U Physics/Teaching Guides/Subject 2 - Vector Motion Foundations Guide.md",
-    "SPH3U Physics/Teaching Guides/Subject 1 - Introductory Skills Guide.md",
     "SPH3U Physics/Unit 1 Physics - Video Directory.md",
     "SPH3U Physics/Unit 1 Kinematics - Master Study Roadmap.md",
     "README.md",
@@ -259,7 +262,6 @@
     "fetch_online_images.py",
     "text_diagrams_list.txt",
     "scan_diagrams.py",
-    "audit_links.py",
     "SPH3U Physics/Summary Notes/Subject 4 - Advanced Kinematics Summary.md",
     "Resources/Example Notes.md",
     "Agents.MD.md",
