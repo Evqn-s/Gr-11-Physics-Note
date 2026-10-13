@@ -205,13 +205,15 @@ $$\{\vec{v}_i, \vec{v}_f, \vec{a}, \Delta\vec{d}, \Delta t\}$$
 #### Variable Selection Lookup Matrix:
 Select the equation that completely omits the "ignored" variable:
 
-|   Missing / Ignored Variable   | Required Kinematic Equation                                            |     |
-| :----------------------------: | :--------------------------------------------------------------------- | --- |
-| $\Delta\vec{d}$ (Displacement) | $\vec{v}_f = \vec{v}_i + \vec{a}\Delta t$                              |     |
-|    $\vec{a}$ (Acceleration)    | $\Delta\vec{d} = \left(\frac{\vec{v}_i + \vec{v}_f}{2}\right)\Delta t$ |     |
-|  $\vec{v}_f$ (Final Velocity)  | $\Delta\vec{d} = \vec{v}_i\Delta t + \frac{1}{2}\vec{a}\Delta t^2$     |     |
-| $\vec{v}_i$ (Initial Velocity) | $\Delta\vec{d} = \vec{v}_f\Delta t - \frac{1}{2}\vec{a}\Delta t^2$     |     |
-|       $\Delta t$ (Time)        | $v_f^2 = v_i^2 + 2a\Delta d$                                           |     |
+|   Missing / Ignored Variable   | Required Kinematic Equation                                            |
+| :----------------------------: | :--------------------------------------------------------------------- |
+| $\Delta\vec{d}$ (Displacement) | $\vec{v}_f = \vec{v}_i + \vec{a}\Delta t$                              |
+|    $\vec{a}$ (Acceleration)    | $\Delta\vec{d} = \left(\frac{\vec{v}_i + \vec{v}_f}{2}\right)\Delta t$ |
+|  $\vec{v}_f$ (Final Velocity)  | $\Delta\vec{d} = \vec{v}_i\Delta t + \frac{1}{2}\vec{a}\Delta t^2$     |
+| $\vec{v}_i$ (Initial Velocity) | $\Delta\vec{d} = \vec{v}_f\Delta t - \frac{1}{2}\vec{a}\Delta t^2$     |
+|       $\Delta t$ (Time)        | $v_f^2 = v_i^2 + 2a\Delta d$                                           |
+|                                |                                                                        |
+|                                |                                                                        |
 
 #### Implied Physics Phrases:
 - *"Starts from rest"* $\implies \vec{v}_i = 0\text{ m/s}$
